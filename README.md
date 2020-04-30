@@ -5,7 +5,9 @@ Feel free to remix. You can use it for your job interview, to start your own pro
 The **only restriction** is hosting the original project (before the solution) with the instructions that were provided on Learn JavaScript.
 
 ### Project completion image
-<img src="https://github.com/morganOliveira2018/Project-Strings/blob/master/src/assets/Build.png” height="150" width="150">
+<h1 align="center">
+  <img alt="Layout" title="#Project-Strings" src="https://github.com/morganOliveira2018/Project-Strings/blob/master/src/assets/Build.png" width="600px"/>
+</h1>
 
 ## Setup
 
